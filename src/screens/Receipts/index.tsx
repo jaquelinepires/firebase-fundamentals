@@ -50,7 +50,6 @@ async function fetchImages() {
 
   useEffect(() => {
     fetchImages()
-    
   },[]);
   
   return (
